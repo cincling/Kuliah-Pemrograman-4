@@ -1,3 +1,3 @@
-function tambah {
+function hello {
 	echo "halo world!"
 }
