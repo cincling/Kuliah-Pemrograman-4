@@ -1,0 +1,5 @@
+001,Andi Pratama,Jakarta
+002,Deni Prayogo,Bekasi
+003,Dana Pradita,Depok
+004,Gandis Astri,Tangerang
+005,Putra Raditya,Jakarta
